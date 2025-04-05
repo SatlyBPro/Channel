@@ -1,4 +1,4 @@
-[	
+[
 	"Common",
 	"Ganesh",
 	"LIVE",
@@ -36,6 +36,8 @@
 	"ZAmazonToVulkan",
 	"ZAnalyticPointsDualWrite",
 	"ZAndroidANR",
+	"ZAndroidMiMAllocTuning",
+	"ZAndroidMiMAllocTuningControl",
 	"ZAndroidTestNewMemoryUtilityCurveSystem",
 	"ZAndroidTestNewMemoryUtilityCurveSystemControl",
 	"ZAndroidUnifiedLighting",
@@ -668,6 +670,10 @@
 	"ZMigrateOpenSSL3LinuxWindows",
 	"ZMigrateOpenSSL3LinuxWindowsControl",
 	"ZMigrateToOpenSSL3",
+	"ZMiMAllocAndroid",
+	"ZMiMAllocTuningAndMMap",
+	"ZMiMAllocV3",
+	"ZMiMAllocV3Control",
 	"ZMinRadiusLimits",
 	"ZMinRadiusTest",
 	"ZModerationDialog",
