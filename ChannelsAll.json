@@ -1195,6 +1195,8 @@
 	"ZTextureDedup-Control",
 	"ZTextureDedup",
 	"ZTextureGenerator",
+	"ZTextureManagerInterface-Control",
+	"ZTextureManagerInterface",
 	"ZThememanagerRemove",
 	"ZTheod-Test-002",
 	"ZTheod-Test-003",
