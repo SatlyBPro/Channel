@@ -697,6 +697,7 @@
 	"ZMiMAllocV3Win3",
 	"ZMiMAllocV3Win4",
 	"ZMiMAllocV3Win4Control",
+	"ZMiMAllocV3Win4ControlBinary",
 	"ZMinRadiusLimits",
 	"ZMinRadiusTest",
 	"ZModerationDialog",
