@@ -950,6 +950,7 @@
 	"ZReEnableTLSPreWarm",
 	"ZReEnableTLSPreWarmWithThread",
 	"ZReEnableWinZstdDict",
+	"ZReflectedTypesMigration",
 	"ZRegistrationMacroMigration",
 	"ZRegressionTest1",
 	"ZRegressionTest10",
