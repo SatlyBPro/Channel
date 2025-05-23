@@ -60,6 +60,8 @@
 	"ZAOmarPCRegressionTestStale3",
 	"ZApollo",
 	"ZAppFoundation",
+	"ZAppleMiMAllocMAdvise",
+	"ZAppleMiMAllocMAdviseControl",
 	"ZAppSessionL0Test",
 	"ZAppVersionNull",
 	"ZAppVersionNull2",
